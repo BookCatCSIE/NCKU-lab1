@@ -1,0 +1,61 @@
+Script started on 廿十八年三月廿日 (週二) 〇時54分38秒
+]0;pd2vm@pd2-vbox: ~[01;32mpd2vm@pd2-vbox[00m:[01;34m~[00m$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.ICEauthority[m
+	[31m.Xauthority[m
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.cache/[m
+	[31m.config/[m
+	[31m.gitconfig[m
+	[31m.gnome/[m
+	[31m.local/[m
+	[31m.mozilla/[m
+	[31m.pki/[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31m.vboxclient-clipboard.pid[m
+	[31m.vboxclient-display.pid[m
+	[31m.vboxclient-draganddrop.pid[m
+	[31m.vboxclient-seamless.pid[m
+	[31m.viminfo[m
+	[31m.vimrc[m
+	[31m.xinputrc[m
+	[31m.xsession-errors[m
+	[31m.xsession-errors.old[m
+	[31mDownloads/[m
+	[31mExample/[m
+	[31mQt5.9.2/[m
+	[31mbuild-Example-Desktop_Qt_5_9_2_GCC_64bit-Debug/[m
+	[31mlab1.script[m
+	[31mqt-opensource-linux-x64-5.9.2.run[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;pd2vm@pd2-vbox: ~[01;32mpd2vm@pd2-vbox[00m:[01;34m~[00m$ whoami:[K;pdw[K[Kwd
+pd2vm
+/home/pd2vm
+]0;pd2vm@pd2-vbox: ~[01;32mpd2vm@pd2-vbox[00m:[01;34m~[00m$ git config -l
+user.email=f74066365@mail.ncku.edu.tw
+user.name=張君豪
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.pb.url=https://pd2b.imslab.org/gitlab/F74066365/lab1
+remote.pb.fetch=+refs/heads/*:refs/remotes/pb/*
+remote.origin.url=https://pd2b.imslab.org/gitlab/F74066365/lab1
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;pd2vm@pd2-vbox: ~[01;32mpd2vm@pd2-vbox[00m:[01;34m~[00m$ git clone[K]0;pd2vm@pd2-vbox: ~[01;32mpd2vm@pd2-vbox[00m:[01;34m~[00m$ git clone https://pd2b.imslab.org/gitlab/F74066365/lab1 [A
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;pd2vm@pd2-vbox: ~[01;32mpd2vm@pd2-vbox[00m:[01;34m~[00m$ [K]0;pd2vm@pd2-vbox: ~[01;32mpd2vm@pd2-vbox[00m:[01;34m~[00m$ exit
+
+Script done on 廿十八年三月廿日 (週二) 〇時58分廿一秒
